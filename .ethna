@@ -1,0 +1,5 @@
+[project]
+ethna_version = 2.5.0
+controller_file = "app/Ac_Controller.php"
+controller_class = "Ac_Controller"
+author="remix.asia"
