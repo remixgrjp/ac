@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<stations area_id="JP13" area_name="TOKYO JAPAN">
+	<station>
+		<id>NHK1</id>
+		<name>ラジオ第1</name>
+		<ascii_name>NHK 1</ascii_name>
+	</station>
+	<station>
+		<id>NHK2</id>
+		<name>ラジオ第2</name>
+		<ascii_name>NHK 2</ascii_name>
+	</station>
+	<station>
+		<id>NHKFM</id>
+		<name>NHK-FM</name>
+		<ascii_name>NHK-FM</ascii_name>
+	</station>
+</stations>
