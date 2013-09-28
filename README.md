@@ -1,28 +1,28 @@
-### ¡ƒ\ƒtƒg–¼Ì
-	ƒGƒAƒ`ƒFƒbƒN ƒN[ƒƒ“ƒ}ƒl[ƒWƒƒ[
+### â– ã‚½ãƒ•ãƒˆåç§°
+	ã‚¨ã‚¢ãƒã‚§ãƒƒã‚¯ ã‚¯ãƒ¼ãƒ­ãƒ³ãƒžãƒãƒ¼ã‚¸ãƒ£ãƒ¼
 
-### ¡ƒo[ƒWƒ‡ƒ“
+### â– ãƒãƒ¼ã‚¸ãƒ§ãƒ³
 	1.0
 
-### ¡ƒ\ƒtƒg‚ÌŠT—v
-	@Linux ‚È‚Ç UNIX ‚Åƒ‰ƒWƒR‚ðƒ^ƒCƒ}[˜^‰¹‚·‚éˆ×‚ÌƒN[ƒƒ“‚ð •ÒW‚·‚é‚½‚ß‚Ì
-	‚v‚d‚aƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚Å‚·B
+### â– ã‚½ãƒ•ãƒˆã®æ¦‚è¦
+	ã€€Linux ãªã© UNIX ã§ãƒ©ã‚¸ã‚³ã‚’ã‚¿ã‚¤ãƒžãƒ¼éŒ²éŸ³ã™ã‚‹ç‚ºã®ã‚¯ãƒ¼ãƒ­ãƒ³ã‚’ ç·¨é›†ã™ã‚‹ãŸã‚ã®
+	ï¼·ï¼¥ï¼¢ã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³ã§ã™ã€‚
 
-### ¡“®ìðŒ
-	@ƒVƒFƒ‹‚©‚çƒ‰ƒWƒR‚Ì˜^‰¹‚ª‚Å‚«‚Ä‚¢‚é‚±‚ÆB
-	@Ý’u‘ÎÛ‚ÌƒT[ƒo‚ÅAApache ‚È‚Ç‚Ì‚v‚d‚aƒT[ƒo‚©‚ç php ‚ªŽÀs‚Å‚«‚Ä‚¢‚é
-	•K—v‚ª‚ ‚è‚Ü‚·BƒtƒŒ[ƒ€ƒ[ƒN Ethna ‚ÍAˆÀ’èƒo[ƒWƒ‡ƒ“ 2.5.0B
-	‚»‚Ì‘¼‚ÌÚ×‚Èƒ‚ƒWƒ…[ƒ‹‚ÍA‚»‚ê‚¼‚ê‰º‹L‚ðŽQl‚Éƒ_ƒEƒ“ƒ[ƒh•ƒCƒ“ƒXƒg[ƒ‹‚µ
-	‚Ä‚­‚¾‚³‚¢B
+### â– å‹•ä½œæ¡ä»¶
+	ã€€ã‚·ã‚§ãƒ«ã‹ã‚‰ãƒ©ã‚¸ã‚³ã®éŒ²éŸ³ãŒã§ãã¦ã„ã‚‹ã“ã¨ã€‚
+	ã€€è¨­ç½®å¯¾è±¡ã®ã‚µãƒ¼ãƒã§ã€Apache ãªã©ã®ï¼·ï¼¥ï¼¢ã‚µãƒ¼ãƒã‹ã‚‰ php ãŒå®Ÿè¡Œã§ãã¦ã„ã‚‹
+	å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚ãƒ•ãƒ¬ãƒ¼ãƒ ãƒ¯ãƒ¼ã‚¯ Ethna ã¯ã€å®‰å®šãƒãƒ¼ã‚¸ãƒ§ãƒ³ 2.5.0ã€‚
+	ãã®ä»–ã®è©³ç´°ãªãƒ¢ã‚¸ãƒ¥ãƒ¼ãƒ«ã¯ã€ãã‚Œãžã‚Œä¸‹è¨˜ã‚’å‚è€ƒã«ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ï¼†ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã—
+	ã¦ãã ã•ã„ã€‚
 	http://ethna.jp/
 
-	“®ìŠm”FÏ‚ÌŠÂ‹«—á‚P
+	å‹•ä½œç¢ºèªæ¸ˆã®ç’°å¢ƒä¾‹ï¼‘
 		CentOS release 6.4 (Final)
 		Apache 2.0
 		PHP Version 5.3.3
 		php-mbstring 5.3.3-23.el6_4
 		PEAR Version: 1.9.4
-			ipear listj
+			ï¼ˆpear listï¼‰
 			Archive_Tar      1.3.11
 			Console_Getopt   1.3.1
 			DB               1.7.14
@@ -33,117 +33,117 @@
 		Smarty-2.6.26
 		Ethna 2.5.0
 
-	@ƒ\[ƒX‚Í UTF-8 ‚Å‚·B
+	ã€€ã‚½ãƒ¼ã‚¹ã¯ UTF-8 ã§ã™ã€‚
 
-### ¡ƒCƒ“ƒXƒg[ƒ‹‚ÌŽè‡
-	‚PDÝ’u‘ÎÛ‚ÌƒT[ƒo‚Å’¼Úƒ_ƒEƒ“ƒ[ƒhE‰ð“€‚·‚é‚©A‰ð“€Ï‚Ý‚Ì‘S‚Ä‚Ìƒtƒ@ƒC
-	ƒ‹‚ðƒfƒBƒNƒgƒŠ\‘¢‚Ì‚Ü‚Ü‚e‚s‚o‚ÅÝ’u‚µ‚Ü‚·B
+### â– ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã®æ‰‹é †
+	ï¼‘ï¼Žè¨­ç½®å¯¾è±¡ã®ã‚µãƒ¼ãƒã§ç›´æŽ¥ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ãƒ»è§£å‡ã™ã‚‹ã‹ã€è§£å‡æ¸ˆã¿ã®å…¨ã¦ã®ãƒ•ã‚¡ã‚¤
+	ãƒ«ã‚’ãƒ‡ã‚£ã‚¯ãƒˆãƒªæ§‹é€ ã®ã¾ã¾ï¼¦ï¼´ï¼°ã§è¨­ç½®ã—ã¾ã™ã€‚
 
-	@Žå—v‚Èƒtƒ@ƒCƒ‹‚ÆƒfƒBƒNƒgƒŠ\‘¢
+	ã€€ä¸»è¦ãªãƒ•ã‚¡ã‚¤ãƒ«ã¨ãƒ‡ã‚£ã‚¯ãƒˆãƒªæ§‹é€ 
 		ac
-		„   README.md	š‚±‚Ìƒtƒ@ƒCƒ‹
-		„¥„Ÿetc
-		„       ac-ini.php	šÝ’èƒtƒ@ƒCƒ‹
-		„       crontab.txt	šƒN[ƒƒ“ƒf[ƒ^
-		„¥„Ÿlocale
-		„¥„Ÿwww
-		„   „   unittest.php
-		„   „   xmlrpc.php
-		„   „   info.php
-		„   „   index.php	šƒGƒ“ƒgƒŠ[ƒ|ƒCƒ“ƒg
-		„   „¥„Ÿcss
-		„   „¤„Ÿjs
-		„¥„Ÿtemplate
-		„   „¤„Ÿja_JP
-		„¥„Ÿbin
-		„¥„Ÿapp
-		„   „   Ac_Datas.php	šƒN[ƒƒ“§Œäƒtƒ@ƒCƒ‹
-		„   „¥„Ÿaction_cli
-		„   „¥„Ÿaction_xmlrpc
-		„   „¥„Ÿview
-		„   „¥„Ÿaction
-		„   „¥„Ÿtest
-		„   „¤„Ÿplugin
-		„       „¥„ŸFilter
-		„       „¥„ŸSmarty
-		„       „¤„ŸValidator
-		„¥„Ÿlog		šƒƒOƒfƒBƒŒƒNƒgƒŠ
-		„¥„Ÿschema
-		„¥„Ÿskel
-		„¥„Ÿtmp		šƒeƒ“ƒ|ƒ‰ƒŠƒfƒBƒŒƒNƒgƒŠ
-		„       crontab.txt
-		„¤„Ÿlib
+		â”‚  README.md	â˜…ã“ã®ãƒ•ã‚¡ã‚¤ãƒ«
+		â”œâ”€etc
+		â”‚      ac-ini.php	â˜…è¨­å®šãƒ•ã‚¡ã‚¤ãƒ«
+		â”‚      crontab.txt	â˜…ã‚¯ãƒ¼ãƒ­ãƒ³ãƒ‡ãƒ¼ã‚¿
+		â”œâ”€locale
+		â”œâ”€www
+		â”‚  â”‚  unittest.php
+		â”‚  â”‚  xmlrpc.php
+		â”‚  â”‚  info.php
+		â”‚  â”‚  index.php	â˜…ã‚¨ãƒ³ãƒˆãƒªãƒ¼ãƒã‚¤ãƒ³ãƒˆ
+		â”‚  â”œâ”€css
+		â”‚  â””â”€js
+		â”œâ”€template
+		â”‚  â””â”€ja_JP
+		â”œâ”€bin
+		â”œâ”€app
+		â”‚  â”‚  Ac_Datas.php	â˜…ã‚¯ãƒ¼ãƒ­ãƒ³åˆ¶å¾¡ãƒ•ã‚¡ã‚¤ãƒ«
+		â”‚  â”œâ”€action_cli
+		â”‚  â”œâ”€action_xmlrpc
+		â”‚  â”œâ”€view
+		â”‚  â”œâ”€action
+		â”‚  â”œâ”€test
+		â”‚  â””â”€plugin
+		â”‚      â”œâ”€Filter
+		â”‚      â”œâ”€Smarty
+		â”‚      â””â”€Validator
+		â”œâ”€log		â˜…ãƒ­ã‚°ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒª
+		â”œâ”€schema
+		â”œâ”€skel
+		â”œâ”€tmp		â˜…ãƒ†ãƒ³ãƒãƒ©ãƒªãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒª
+		â”‚      crontab.txt
+		â””â”€lib
 
-	‚QD•K—vÅ¬ŒÀ‚Ìƒp[ƒ~ƒbƒVƒ‡ƒ“Ý’èB
-	@ƒGƒ“ƒgƒŠ[ƒ|ƒCƒ“ƒg‚É‚Í•s“Á’èŽÒ‚Ì read Œ ŒÀ‚ð•t‚¯‚Ü‚·B
-	@ƒƒOƒfƒBƒŒƒNƒgƒŠAƒeƒ“ƒ|ƒ‰ƒŠƒfƒBƒŒƒNƒgƒŠAƒN[ƒƒ“ƒf[ƒ^‚É‚ÍAapache ƒvƒ
-	ƒZƒX‚Ì write Œ ŒÀ‚ð•t‚¯‚Ü‚·B
+	ï¼’ï¼Žå¿…è¦æœ€å°é™ã®ãƒ‘ãƒ¼ãƒŸãƒƒã‚·ãƒ§ãƒ³è¨­å®šã€‚
+	ã€€ã‚¨ãƒ³ãƒˆãƒªãƒ¼ãƒã‚¤ãƒ³ãƒˆã«ã¯ä¸ç‰¹å®šè€…ã® read æ¨©é™ã‚’ä»˜ã‘ã¾ã™ã€‚
+	ã€€ãƒ­ã‚°ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã€ãƒ†ãƒ³ãƒãƒ©ãƒªãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã€ã‚¯ãƒ¼ãƒ­ãƒ³ãƒ‡ãƒ¼ã‚¿ã«ã¯ã€apache ãƒ—ãƒ­
+	ã‚»ã‚¹ã® write æ¨©é™ã‚’ä»˜ã‘ã¾ã™ã€‚
 
-	‚RD‚v‚d‚aƒT[ƒo‚ÌDocumentRoot‚ð•ÏX‚·‚é‚±‚Æ‚ª‰Â”\‚È‚ç‚ÎA‰ð“€‚µ‚½ www ƒtƒH
-	ƒ‹ƒ_‚ð DocumentRoot ‚É‚·‚é‚Ì‚ªÅ‚àŠÈ’P‚Å‚·B
-	@Šù‘¶‚Ì DocumentRoot ‚É”z’u‚µ‚½‚¢ê‡AƒVƒ“ƒ{ƒŠƒbƒNƒŠƒ“ƒN‚ð’£‚é‚©AƒGƒ“ƒgƒŠ
-	[ƒ|ƒCƒ“ƒg‚ðŠÜ‚ÞAwww ƒtƒHƒ‹ƒ_“à‚Ìƒtƒ@ƒCƒ‹‚ðŠù‘¶‚Ì DocumentRoot ‚É”z’u‚µ ƒG
-	ƒ“ƒgƒŠ[ƒ|ƒCƒ“ƒgƒtƒ@ƒCƒ‹‚Ì‚Qs–Ú
+	ï¼“ï¼Žï¼·ï¼¥ï¼¢ã‚µãƒ¼ãƒã®DocumentRootã‚’å¤‰æ›´ã™ã‚‹ã“ã¨ãŒå¯èƒ½ãªã‚‰ã°ã€è§£å‡ã—ãŸ www ãƒ•ã‚©
+	ãƒ«ãƒ€ã‚’ DocumentRoot ã«ã™ã‚‹ã®ãŒæœ€ã‚‚ç°¡å˜ã§ã™ã€‚
+	ã€€æ—¢å­˜ã® DocumentRoot ã«é…ç½®ã—ãŸã„å ´åˆã€ã‚·ãƒ³ãƒœãƒªãƒƒã‚¯ãƒªãƒ³ã‚¯ã‚’å¼µã‚‹ã‹ã€ã‚¨ãƒ³ãƒˆãƒª
+	ãƒ¼ãƒã‚¤ãƒ³ãƒˆã‚’å«ã‚€ã€www ãƒ•ã‚©ãƒ«ãƒ€å†…ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‚’æ—¢å­˜ã® DocumentRoot ã«é…ç½®ã— ã‚¨
+	ãƒ³ãƒˆãƒªãƒ¼ãƒã‚¤ãƒ³ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ã®ï¼’è¡Œç›®
 		define('BASE', '/var/www/cgi-bin/ac/radiko/ac');
-	‚ðŽÀÛ‚Ìâ‘ÎƒpƒX‚É‘‚«Š·‚¦‚Ü‚·B
+	ã‚’å®Ÿéš›ã®çµ¶å¯¾ãƒ‘ã‚¹ã«æ›¸ãæ›ãˆã¾ã™ã€‚
 
-	‚SDLinux ‚ÌÝ’è—áB
-	@apache ‚ÌƒvƒƒZƒX‚©‚ç sudoƒRƒ}ƒ“ƒh‚ðŽÀs‚·‚é‚½‚ß
+	ï¼”ï¼ŽLinux ã®è¨­å®šä¾‹ã€‚
+	ã€€apache ã®ãƒ—ãƒ­ã‚»ã‚¹ã‹ã‚‰ sudoã‚³ãƒžãƒ³ãƒ‰ã‚’å®Ÿè¡Œã™ã‚‹ãŸã‚
 		sudo visudo
-	ƒRƒ}ƒ“ƒh‚ÅA
+	ã‚³ãƒžãƒ³ãƒ‰ã§ã€
 		apache  ALL=(ALL)       NOPASSWD: /usr/bin/crontab
 		Defaults:apache !requiretty
-	‚ðÅ‰ºs‚É’Ç‰Á‚µ‚Ü‚·B
-	@apache ƒOƒ‹[ƒv‚Ì cron ŽÀsƒ†[ƒU‚ð’Ç‰Á‚µ‚Ü‚·B
+	ã‚’æœ€ä¸‹è¡Œã«è¿½åŠ ã—ã¾ã™ã€‚
+	ã€€apache ã‚°ãƒ«ãƒ¼ãƒ—ã® cron å®Ÿè¡Œãƒ¦ãƒ¼ã‚¶ã‚’è¿½åŠ ã—ã¾ã™ã€‚
 		sudo useradd -g apache radiko
-	@”O‚Ì‚½‚ßAapache ‚â radiko ‚ÅƒƒOƒCƒ“‚Å‚«‚È‚¢‚±‚Æ‚ðŠm”F‚·‚×‚«‚Å‚·B
+	ã€€å¿µã®ãŸã‚ã€apache ã‚„ radiko ã§ãƒ­ã‚°ã‚¤ãƒ³ã§ããªã„ã“ã¨ã‚’ç¢ºèªã™ã¹ãã§ã™ã€‚
 
-	‚TDÝ’èƒtƒ@ƒCƒ‹ ac-ini.php Ý’è—áB
-	@cron ŽÀsƒ†[ƒUB
+	ï¼•ï¼Žè¨­å®šãƒ•ã‚¡ã‚¤ãƒ« ac-ini.php è¨­å®šä¾‹ã€‚
+	ã€€cron å®Ÿè¡Œãƒ¦ãƒ¼ã‚¶ã€‚
 		'cronUser'	=>	'radiko',
-	@ƒ‰ƒWƒR˜^‰¹ƒVƒFƒ‹(â‘ÎƒpƒX)B
+	ã€€ãƒ©ã‚¸ã‚³éŒ²éŸ³ã‚·ã‚§ãƒ«(çµ¶å¯¾ãƒ‘ã‚¹)ã€‚
 		'command'	=>	'/usr/local/bin/rec_radiru.sh',
-	@˜^‰¹ƒtƒ@ƒCƒ‹•Û‘¶ƒtƒHƒ‹ƒ_(â‘ÎƒpƒX)B
+	ã€€éŒ²éŸ³ãƒ•ã‚¡ã‚¤ãƒ«ä¿å­˜ãƒ•ã‚©ãƒ«ãƒ€(çµ¶å¯¾ãƒ‘ã‚¹)ã€‚
 		'pathSave'	=>	'/var/www/html',
 
-	‚UDƒN[ƒƒ“¶¬ƒXƒNƒŠƒvƒg‚ÌC³B
-	@•K—v‚É‰ž‚¶A‚ ‚È‚½‚Ìƒ‰ƒWƒR˜^‰¹ƒVƒFƒ‹‚Ìƒpƒ‰ƒ[ƒ^‚É‡‚í‚¹‚ÄAencodeData() 
-	‚Ì $txt ‚ðC³‚µ‚Ü‚·BŒ»ó‚Ìƒ‰ƒWƒR˜^‰¹ƒVƒFƒ‹‚ÍA
-		ƒXƒe[ƒVƒ‡ƒ“‚h‚c
-		˜^‰¹ŽžŠÔi•ªj
-		•Û‘¶ƒtƒHƒ‹ƒ_
-	‚Ìƒpƒ‰ƒ[ƒ^‚ðŽw’è‚·‚é‚æ‚¤‚É‚È‚Á‚Ä‚¢‚Ü‚·B
+	ï¼–ï¼Žã‚¯ãƒ¼ãƒ­ãƒ³ç”Ÿæˆã‚¹ã‚¯ãƒªãƒ—ãƒˆã®ä¿®æ­£ã€‚
+	ã€€å¿…è¦ã«å¿œã˜ã€ã‚ãªãŸã®ãƒ©ã‚¸ã‚³éŒ²éŸ³ã‚·ã‚§ãƒ«ã®ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ã«åˆã‚ã›ã¦ã€encodeData() 
+	ã® $txt ã‚’ä¿®æ­£ã—ã¾ã™ã€‚ç¾çŠ¶ã®ãƒ©ã‚¸ã‚³éŒ²éŸ³ã‚·ã‚§ãƒ«ã¯ã€
+		ã‚¹ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³ï¼©ï¼¤
+		éŒ²éŸ³æ™‚é–“ï¼ˆåˆ†ï¼‰
+		ä¿å­˜ãƒ•ã‚©ãƒ«ãƒ€
+	ã®ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ã‚’æŒ‡å®šã™ã‚‹ã‚ˆã†ã«ãªã£ã¦ã„ã¾ã™ã€‚
 
-### ¡ƒAƒ“ƒCƒ“ƒXƒg[ƒ‹‚ÌŽè‡
-	@ƒCƒ“ƒXƒg[ƒ‹Žž‚É‰ð“€‚µ‚½acƒtƒHƒ‹ƒ_‚²‚Æíœ‚·‚é‚¾‚¯‚ÅƒAƒ“ƒCƒ“ƒXƒg[ƒ‹
-	‚ªŠ®—¹‚µ‚Ü‚·B‚v‚d‚aƒT[ƒo‚ÌÝ’è‚âLinuxƒ†[ƒU[‚ðŒ³‚Ö–ß‚·‚Ì‚ð‚¨–Y‚ê‚È‚­B
+### â– ã‚¢ãƒ³ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã®æ‰‹é †
+	ã€€ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ™‚ã«è§£å‡ã—ãŸacãƒ•ã‚©ãƒ«ãƒ€ã”ã¨å‰Šé™¤ã™ã‚‹ã ã‘ã§ã‚¢ãƒ³ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«
+	ãŒå®Œäº†ã—ã¾ã™ã€‚ï¼·ï¼¥ï¼¢ã‚µãƒ¼ãƒã®è¨­å®šã‚„Linuxãƒ¦ãƒ¼ã‚¶ãƒ¼ã‚’å…ƒã¸æˆ»ã™ã®ã‚’ãŠå¿˜ã‚Œãªãã€‚
 
-### ¡Žg—p•û–@
-	@ŽŸ‚Ì URL ‚Åƒfƒ‚‚ðŒöŠJ‚µ‚Ä‚¢‚Ü‚·B
-	@http://www.remix.gr.jp/service/ac/radiko/
+### â– ä½¿ç”¨æ–¹æ³•
+	ã€€æ¬¡ã® URL ã§ãƒ‡ãƒ¢ã‚’å…¬é–‹ã—ã¦ã„ã¾ã™ã€‚
+	ã€€http://www.remix.gr.jp/service/ac/radiko/
 
-### ¡Žæ‚èˆµ‚¢Ží•Ê
-	@–³—¿‚Å‚·B
-	@ìŽÒ‚Í–{ƒ\ƒtƒgƒEƒGƒA‚ðŽg—p‚µ‚½‚±‚Æ‚É‚æ‚è¶‚¶‚½‘¹ŠQ‚É‚Â‚¢‚ÄˆêØ‚ÌÓ”C‚ð•‰‚¢
-	‚Ü‚¹‚ñB
+### â– å–ã‚Šæ‰±ã„ç¨®åˆ¥
+	ã€€ç„¡æ–™ã§ã™ã€‚
+	ã€€ä½œè€…ã¯æœ¬ã‚½ãƒ•ãƒˆã‚¦ã‚¨ã‚¢ã‚’ä½¿ç”¨ã—ãŸã“ã¨ã«ã‚ˆã‚Šç”Ÿã˜ãŸæå®³ã«ã¤ã„ã¦ä¸€åˆ‡ã®è²¬ä»»ã‚’è² ã„
+	ã¾ã›ã‚“ã€‚
 
-### ¡‹àŠz
-	–³—¿
+### â– é‡‘é¡
+	ç„¡æ–™
 
-### ¡‘—‹à•û–@
-	@Šñ•t‚µ‚Ä‚¢‚½‚¾‚¯‚éê‡A‚¨Užæ‹âsŒûÀ‚ð•ÔM‚¢‚½‚µ‚Ü‚·‚Ì‚Å
+### â– é€é‡‘æ–¹æ³•
+	ã€€å¯„ä»˜ã—ã¦ã„ãŸã ã‘ã‚‹å ´åˆã€ãŠæŒ¯è¾¼å…ˆéŠ€è¡Œå£åº§ã‚’è¿”ä¿¡ã„ãŸã—ã¾ã™ã®ã§
 
 		http://www.remix.asia/service/formmail/
 
-	‚æ‚èA‚²˜A—‚­‚¾‚³‚¢B
+	ã‚ˆã‚Šã€ã”é€£çµ¡ãã ã•ã„ã€‚
 
-### ¡ŽŽ—p§ŒÀ
-	§ŒÀ‚Í‚ ‚è‚Ü‚¹‚ñB—˜—pŽÒ‚ÌÓ”C‚ÅÝ’uE‰^—p‚¨Šè‚¢‚¢‚½‚µ‚Ü‚·B
+### â– è©¦ç”¨åˆ¶é™
+	åˆ¶é™ã¯ã‚ã‚Šã¾ã›ã‚“ã€‚åˆ©ç”¨è€…ã®è²¬ä»»ã§è¨­ç½®ãƒ»é‹ç”¨ãŠé¡˜ã„ã„ãŸã—ã¾ã™ã€‚
 
-### ¡˜A—æ
-	http+formmail—‚q‚d‚l‚h‚wD‚`‚r‚h‚`
-	‚q‚d‚l‚h‚w
+### â– é€£çµ¡å…ˆ
+	http+formmailï¼ ï¼²ï¼¥ï¼­ï¼©ï¼¸ï¼Žï¼¡ï¼³ï¼©ï¼¡
+	ï¼²ï¼¥ï¼­ï¼©ï¼¸
 	http://www.vector.co.jp/vpack/browse/person/an044540.html
 
-### ¡•ÏX—š—ð
-	2013-09-29	Version 1.0 ‰”ÅƒŠƒŠ[ƒX
+### â– å¤‰æ›´å±¥æ­´
+	2013-09-29	Version 1.0 åˆç‰ˆãƒªãƒªãƒ¼ã‚¹
