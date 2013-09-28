@@ -84,10 +84,8 @@
 	　既存の DocumentRoot に配置したい場合、シンボリックリンクを張るか、エントリ
 	ーポイントを含む、www フォルダ内のファイルを既存の DocumentRoot に配置し エ
 	ントリーポイントファイルの２行目
-		require_once dirname(__FILE__) . '/../app/Ac_Controller.php';
-	を
-		require_once '/var/www/cgi-bin/ac/app/Ac_Controller.php';
-	のような絶対パスに書き換えます。
+		define('BASE', '/var/www/cgi-bin/ac/radiko/ac');
+	を実際の絶対パスに書き換えます。
 
 	４．Linux の設定例。
 	　apache のプロセスから sudoコマンドを実行するため
