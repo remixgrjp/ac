@@ -8,7 +8,7 @@
  */
 
 /** Application base directory */
-define('BASE', dirname(dirname(__FILE__)));
+///	define('BASE', dirname(dirname(__FILE__)));	///	to entory point
 
 /** include_path setting (adding "/app" and "/lib" directory to include_path) */
 $app = BASE . "/app";
