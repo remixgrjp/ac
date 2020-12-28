@@ -71,7 +71,6 @@
 		├─schema
 		├─skel
 		├─tmp		★テンポラリディレクトリ
-		│      crontab.txt
 		└─lib
 
 	２．必要最小限のパーミッション設定。
@@ -120,7 +119,7 @@
 
 ### ■使用方法
 	　次の URL でデモを公開しています。
-	　http://www.remix.gr.jp/service/ac/radiko/
+	　http://remix.asia/service/ac_demo/radiko/
 
 ### ■取り扱い種別
 	　無料です。
@@ -133,7 +132,7 @@
 ### ■送金方法
 	　寄付していただける場合、お振込先銀行口座を返信いたしますので
 
-		http://www.remix.asia/service/formmail/
+		http://remix.asia/service/formmail/
 
 	より、ご連絡ください。
 
@@ -142,7 +141,7 @@
 
 ### ■連絡先
 	http+formmail＠ＲＥＭＩＸ．ＡＳＩＡ
-	ＲＥＭＩＸ
+	ＲＥＭＩＸ / ベクター
 	http://www.vector.co.jp/vpack/browse/person/an044540.html
 
 ### ■変更履歴
